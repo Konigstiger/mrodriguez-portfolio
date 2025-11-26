@@ -1,0 +1,63 @@
+{
+  "name": "Mariano Rodriguez",
+  "headline": "Senior .NET & Full Stack Developer",
+  "location": "Córdoba, Argentina (Remote)",
+  "shortBio": "Senior software developer with .NET, React, Azure and game development experience. Passionate about clean code, UX, and simulation-heavy systems.",
+  "links": {
+    "linkedin": "https://linkedin.com/in/...",
+    "github": "https://github.com/Konigstiger",
+    "youtube": "https://youtube.com/...",
+    "portfolio": "https://mrodriguez.ar"
+  },
+  "skills": {
+    "soft": [
+      { "name": "Teamwork", "level": 4 },
+      { "name": "Problem solving", "level": 4 },
+      { "name": "Adaptability", "level": 3 },
+      { "name": "Mentoring", "level": 3 }
+    ],
+    "technical": [
+      { "name": ".NET", "level": 4 },
+      { "name": "C#", "level": 4 },
+      { "name": "SQL", "level": 4 },
+      { "name": "React", "level": 3 },
+      { "name": "Azure", "level": 3 },
+      { "name": "Unity", "level": 3 }
+    ],
+    "interests": [
+      "Game Development",
+      "UI/UX Design",
+      "Software Architecture",
+      "Historical Strategy Games"
+    ]
+  },
+  "experience": [
+    {
+      "id": "majorkey",
+      "company": "MajorKey",
+      "title": "Senior Software Developer",
+      "dateStart": "2022-10",
+      "dateEnd": "Present",
+      "location": "Remote",
+      "pills": ["C#", ".NET", "Azure", "React"],
+      "details": [
+        "Design and development of backend services using .NET and Azure.",
+        "Collaboration with front-end teams using React and modern tooling."
+      ]
+    },
+    {
+      "id": "utn",
+      "company": "UTN FRC",
+      "title": "Junior Researcher",
+      "dateStart": "2000-03",
+      "dateEnd": "2002-02",
+      "location": "Córdoba, Argentina",
+      "pills": ["J2EE", "IBM DB/2", "WebSphere", "XML"],
+      "details": [
+        "Worked in the Clinical Engineering Group.",
+        "Received a research scholarship from the university.",
+        "Developed a J2EE web-based system to measure technical diagnostics for neuropsychological evaluation."
+      ]
+    }
+  ]
+}
